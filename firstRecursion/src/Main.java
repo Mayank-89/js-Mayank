@@ -20,7 +20,8 @@ public class Main {
             obj.printNos(obj.n.get());
         }else
             System.out.println("Invalid input please enter integer");
-        System.out.println();
+
+        System.out.println("Version 2");
 
     }
 }
